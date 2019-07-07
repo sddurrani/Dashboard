@@ -1,0 +1,45 @@
+{
+	"Yellowlights":[
+		{
+			"lightcat":"Yellow - Low to High",
+			"lightid":1,
+			"lightimagename":"https:\/\/image.ibb.co\/b0L31J\/check_Engine.jpg",
+			"lightdesc":"Check Engine Light: Gas cap lose, transmission fluid change, (small gas engine problem). WARNING: IF THE ENGINE LIGHT IS FLASHING THEN STOP THE CAR IMMEDIATLY AND CALL A TOW TRUCK. ENGINE MISSFIRE.",
+			"lightname":"Check Engine Light",
+			"lighturl":"https:\/\/www.autozone.com\/landing\/page.jsp?name=top-five-reasons-check-engine-light"
+		},
+		{
+			"lightcat":"Yellow - Low - High",
+			"lightid":2,
+			"lightimagename":"https:\/\/image.ibb.co\/iA75Fd\/tire_Pressure.jpg",
+			"lightdesc":"Tire Pressure Light: Tire pressure is low. Should get it checked in the next couple of days. TIre pressure info is available on the driver side door. If the sign shows up every couple of days then it could mean that there is a puncture in the tire.",
+			"lightname":"Check Tire Pressure",
+			"lighturl":"https:\/\/www.bridgestonetire.com\/tread-and-trend\/drivers-ed\/tmps-light-came-on-what-to-do"
+		},
+		{
+			"lightcat":"Yellow - Low - Medium",
+			"lightid":3,
+			"lightimagename":"https:\/\/image.ibb.co\/h64VgJ\/maintReq.jpg",
+			"lightdesc":"MAINT RQRD: Need to get the oil change and/or basic service required. DO NOT IGNORE this sign for too long because in doing so you run the risk of running out of engine oil and freezing the car engine.",
+			"lightname":"Maintanence Required Light",
+			"lighturl":"https:\/\/www.toyota.com\/owners\/resources\/dashboard-indicator-details\/maintenance-required-reminder-light\/COMMCOMMON-1006"
+		},
+		{
+			"lightcat":"Yellow - Low - Medium",
+			"lightid":4,
+			"lightimagename":"https:\/\/image.ibb.co\/cBKKad\/gasCap.png",
+			"lightdesc":"GAS CAP: Gas cap is is loose and needs to be tightened properly. If the light is still on after tighting it could mean that the cap needs to be replaced.",
+			"lightname":"Gas Cap Light",
+			"lighturl":"https:\/\/www.yourmechanic.com\/article\/is-it-safe-to-drive-with-the-gas-cap-light-on"
+		},
+		{
+			"lightcat":"Yellow - Medium to High",
+			"lightid":5,
+			"lightimagename":"https:\/\/image.ibb.co\/jCXSTy\/abs_Brakes.jpg",
+			"lightdesc":"ABS BRAKES: ABS helps the tires mantain contact on the road. If the light is on it means that the ABS are not working properly. Should get it checked in the next couple of days.",
+			"lightname":"ABS Brakes Light",
+			"lighturl":"https:\/\/www.yourmechanic.com\/article\/is-it-safe-to-drive-with-the-abs-light-on"
+		}
+	],
+	"Status":"OK"
+}
